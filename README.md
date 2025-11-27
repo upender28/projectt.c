@@ -69,12 +69,8 @@ On Windows (MinGW):
 gcc hangman.c -o hangman.exe
 hangman.exe
 
-
-<img width="508" height="205" alt="Screenshot 2025-11-25 223134" src="https://github.com/user-attachments/assets/d7c4b97f-45c7-4826-810d-7ee475b69e51" />
-<img width="433" height="153" alt="Screenshot 2025-11-25 223157" src="https://github.com/user-attachments/assets/30975ace-088a-4dd4-a3e1-ce0184e1ea7d" />
-<img width="704" height="271" alt="Screenshot 2025-11-25 223221" src="https://github.com/user-attachments/assets/b50dc4d5-de13-4853-8315-f6c089227cf2" />
-<img width="690" height="281" alt="Screenshot 2025-11-25 223244" src="https://github.com/user-attachments/assets/c4c20d5a-0bcc-49ad-9d6e-4b20a0980ed6" />
-<img width="560" height="253" alt="Screenshot 2025-11-25 223309" src="https://github.com/user-attachments/assets/95720f7d-7387-4bca-b264-df7925d7fbe5" />
-<img width="493" height="405" alt="Screenshot 2025-11-25 223334" src="https://github.com/user-attachments/assets/bfac2693-df01-48fc-a875-7aa3bc286bb6" />
-<img width="490" height="228" alt="Screenshot 2025-11-25 223347" src="https://github.com/user-attachments/assets/def2a3d8-137d-4277-8ec3-e31935fdfa38" />
-
+<img width="682" height="242" alt="Screenshot 2025-11-27 095625" src="https://github.com/user-attachments/assets/35d10e45-e67b-4a67-8e1a-2438f5f3f805" />
+<img width="323" height="168" alt="Screenshot 2025-11-27 095617" src="https://github.com/user-attachments/assets/0be5b70e-2d7e-46c8-9ac9-47f4d407ab0c" />
+<img width="303" height="160" alt="Screenshot 2025-11-27 095610" src="https://github.com/user-attachments/assets/fca68d28-8d83-4f46-9417-8faf08f36ba3" />
+<img width="286" height="167" alt="Screenshot 2025-11-27 095601" src="https://github.com/user-attachments/assets/8e48dbd7-51b5-4acd-8bb9-ef739430d4cb" />
+<img width="304" height="210" alt="Screenshot 2025-11-27 095551" src="https://github.com/user-attachments/assets/7fb17fec-93ea-42be-be01-360975e2b939" />
